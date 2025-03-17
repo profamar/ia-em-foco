@@ -1,7 +1,7 @@
 # IA em Foco: Novidades e Impactos da Inteligência Artificial
 
 ## 📌 Sobre a Série
-**"IA em Foco"** é uma série de artigos semanais que explora as últimas tendências, inovações e impactos da Inteligência Artificial em diversas áreas. Cada artigo recapitula e expande os temas abordados na série anterior, conectando-os às notícias e avanços atuais.
+**"IA em Foco"** é uma série de artigos semanais que explora as últimas tendências, inovações e impactos da Inteligência Artificial em diversas áreas. Cada artigo recapitula e expande os temas abordados na série Didática sobre IA, conectando-os às notícias e avanços atuais.
 
 ![Descrição da Imagem](https://github.com/profamar/ia-em-foco/blob/main/Design%20sem%20nome%20(44).png)
 
