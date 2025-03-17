@@ -3,6 +3,8 @@
 ## 📌 Sobre a Série
 **"IA em Foco"** é uma série de artigos semanais que explora as últimas tendências, inovações e impactos da Inteligência Artificial em diversas áreas. Cada artigo recapitula e expande os temas abordados na série anterior, conectando-os às notícias e avanços atuais.
 
+![Descrição da Imagem](URL-da-Imagem)
+
 ## 📆 Estratégia de Publicação
 Os artigos são publicados **todas as quartas-feiras (entre 6h e 8h da manhã)**, proporcionando consistência e engajamento ao público fiel.
 
