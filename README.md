@@ -24,64 +24,77 @@ Os artigos são publicados **todas as quartas-feiras (entre 6h e 8h da manhã)**
 ## 🚀 Objetivo
 A série **"IA em Foco"** visa informar e educar o público sobre os impactos da Inteligência Artificial, destacando você como uma referência em conteúdos atualizados e acessíveis sobre o tema.
 
-# 📢 IA Generativa: Inovação e Poder Criativo
+# 🧠 IA em Foco  
+### Novidades e Impacto da Inteligência Artificial  
+📅 Semana 3 – Edição Principal  
 
-## 💡 Criatividade em Ação na IA Generativa
-A IA generativa transforma ideias em realidade, criando imagens, vídeos e modelos 3D com inovação e precisão. Ferramentas como **Runway ML** e **Luma AI** democratizam a produção criativa, empoderando artistas e desenvolvedores.
-
----
-
-## 🎬 Ferramentas Visuais em Alta: IA no Vídeo e 3D
-Do texto à tela em segundos. A IA está moldando uma nova era do audiovisual, e essas ferramentas lideram essa revolução.
-
-### 📌 Runway ML: Vídeos Gerados com Texto e Criatividade
-Texto do bloco...
-
-### 📌 Luma AI: Modelagem 3D Realista com IA
-Texto do bloco...
-
-### 📌 Wan 2.1: Geração de Vídeo com Código Aberto da Alibaba
-Texto do bloco...
+![Imagem de Capa: IA integrada à vida moderna – humanos e tecnologia lado a lado](URL-da-imagem)
 
 ---
 
-## 🎨 Imagem + Texto = Arte Gerada por IA
-A arte do futuro está ao alcance de todos — e começa com um prompt.
+## 🧭 Panorama  
+### **IA no Cotidiano: A Nova Interface da Vida Digital**  
+*Do trabalho ao lazer, da saúde à criatividade: como a IA está se tornando o nosso segundo cérebro.*
 
-### 📌 DALL·E 2: Criação Visual com Descrições Textuais
-Texto do bloco...
-
-### 📌 Midjourney: Estilo e Conceito para Criadores Visuais
-Texto do bloco...
-
-### 📌 Stable Diffusion: Flexibilidade e Qualidade Open-Source
-Texto do bloco...
-
-### 📌 Canva com IA: Design Intuitivo para Todos
-Texto do bloco...
+A inteligência artificial deixou de ser coadjuvante. Agora, ela escreve nossos e-mails, organiza nossas tarefas, resume reuniões e nos ajuda a programar — em tempo real, integrada aos aplicativos do dia a dia. Nesta edição, mergulhamos na transformação da IA de ferramenta para assistente ativa.
 
 ---
 
-## 📖 Leia Também
+## 🚀 Boom da IA  
+**Blocos de Destaque:**
 
-Perdeu o **Artigo 1**? Veja como a regulamentação da IA no Brasil impacta o mercado:  
-🔗 [Panorama – IA em Foco: Artigo 1](https://web.dio.me/articles/panorama-636ebe778169?back=/home)
+### 🔹 Microsoft Copilot (Windows, Office)  
+IA integrada à produtividade: Word, Excel, Outlook, Teams.
 
-Curioso sobre as **últimas inovações em IA**? Confira a Edição Extra:  
-🔗 [Últimas da IA – Edição Extra](https://web.dio.me/articles/ultimas-da-ia-4e4198b337a7?back=/articles)
+### 🔹 Google Gemini no Android  
+O novo assistente da Google substitui o Google Assistente com IA contextual.
 
-Saiba como o **Deep Learning impulsiona a IA Generativa**:  
-🔗 [Deep Learning: A Revolução da IA](INSERIR LINK)
+### 🔹 OpenAI Agents & Assistants  
+GPTs personalizados, com memória e ações autônomas.
+
+### 🔹 Anthropic & Manus IA  
+Claude 3 com capacidades de decisão e o primeiro “agente geral” da IA.
+
+### 🔹 Ferramentas com IA nativa  
+Notion AI, Superhuman, Slack com IA, Fireflies, ClickUp, Canva Magic Assistant.
 
 ---
 
-## 🔗 Conexões e Recursos
+## ✍️ IA em Crônica  
+*Uma pausa no código para refletir, com café na mão e IA na cabeça.*
 
-🌐 LinkedIn, Medium, GitHub  
-⚒️ Ferramentas: PowerPoint, Napkin AI, remove.bg, Canva, Lexica, ChatGPT, Copilot, Gemini, Claude, Perplexity  
-✅ Revisão humana: Conteúdo validado para máxima precisão, contexto e relevância 🚀
+> *"E se a inteligência artificial já fosse parte da sua rotina antes mesmo de você notar?"*  
+> (Inserir crônica reflexiva aqui)
 
 ---
+
+## 📊 IA em Números  
+- **87%** dos usuários de ferramentas de produtividade usam IA diariamente.  
+- **65%** das empresas já testam agentes autônomos.  
+- **50%** das interações com apps mobile já envolvem IA generativa.  
+- Fonte: (Inserir links confiáveis)
+
+---
+
+## 📖 Leia Também  
+
+👉 Perdeu a edição anterior? Veja como a regulamentação da IA impacta o mercado:  
+🔗 [Panorama – IA em Foco: Artigo 1](https://web.dio.me/articles/panorama-3a0021ddaa31?back=/articles)
+
+👉 Quer entender como a IA generativa vai evoluir?  
+🔗 [Panorama – IA em Foco: Artigo 2](https://web.dio.me/articles/panorama-636ebe778169?back=/articles)
+
+---
+
+## 🔗 Conexões e Recursos  
+
+🌐 **Conteúdos:** LinkedIn · Medium · GitHub  
+⚒️ **Ferramentas:** ChatGPT · Copilot · Gemini · Claude · Perplexity · Canva · Notion AI  
+👀 **Revisão humana:** Conteúdo validado por especialistas  
+💬 **Deixe seu comentário:** Compartilhe sua visão sobre a IA no dia a dia!
+
+---
+
 
 ## 📢 Como Contribuir
 Contribuições são bem-vindas! Para sugestões ou colaborações, entre em contato ou abra uma issue neste repositório.
